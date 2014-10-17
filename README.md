@@ -1,4 +1,4 @@
-<github-card>
+github_card
 ===========
 
 > A polymer web component to show a profile card for your Github account.
@@ -12,7 +12,7 @@ originally developed by [Guille Paz](https://github.com/pazguille).
 ```
 ![Example](example.png)
 
-See [example/demo.html][] for more details.
+See [demo.html](example/demo.html) for more details.
 
 ## License
 Licensed under the MIT license.
