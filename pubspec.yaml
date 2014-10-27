@@ -1,5 +1,5 @@
 name: github_card
-version: 0.1.0
+version: 0.1.0+1
 author: Frederik Leonhardt <frederik.leonhardt@gmail.com>
 homepage: https://github.com/fkleon/github_card
 description: A polymer web component to show a profile card for your Github account.
