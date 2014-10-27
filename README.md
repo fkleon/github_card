@@ -10,7 +10,7 @@ originally developed by [Guille Paz](https://github.com/pazguille).
 ```html
 <github-card user="fkleon"></github-card>
 ```
-![Example](example.png)
+![Example](https://raw.githubusercontent.com/fkleon/github_card/master/example.png)
 
 See [demo.html](example/demo.html) for more details.
 
