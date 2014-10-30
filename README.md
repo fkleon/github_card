@@ -1,7 +1,7 @@
 github_card
 ===========
 
-> A polymer web component to show a profile card for your Github account.
+> A polymer web component to show a profile card for your GitHub account.
 
 Dart polymer port of [github-card](https://github.com/pazguille/github-card)
 originally developed by [Guille Paz](https://github.com/pazguille).
